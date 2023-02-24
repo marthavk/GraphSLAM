@@ -1,6 +1,6 @@
 @Authors:
-Kokogias Stefanos		880807-4499
-Vlachou-Konchylaki Martha 	881001-7882
+Kokogias Stefanos		
+Vlachou-Konchylaki Martha 	
 
 In order to run simulation the run_GraphSLAM.m (with parameters: mapfile, motion type, verbose) 
 function must be called.
